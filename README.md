@@ -1,4 +1,4 @@
-# Elist Evolution: The Role of Seasonality, Loyalty and Purchase Platforms in Performance Improvement**
+# Elist Evolution: The Role of Seasonality, Loyalty and Purchase Platforms in Performance Improvement
 
 In order to draw insights for the next best steps, the dataset was scrutinized using conditional formatting, aggregate functions, Pivot Tables, and statistical analysis. Utilizing the granularity of individual order data from 2019-2022, including total sales, average order count, and count of sales, and determining the success of our seasonal and regional product-offerings, loyalty programs and purchase platforms, we gain perspective on the historical alignment of customer drives with company practices and design the success of future initiatives.
 
