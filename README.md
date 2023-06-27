@@ -96,4 +96,4 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - **Regional Sales:** With sales growth decreasing across all regions and most severely in the APAC region, it's important to investigate the reasons behind these trends and identify possible solutions. Broader understanding of regional purchasing trends in the market are needed.
 
-- **Evaluate Seasonality:**: Further research on the factors contributing to the seasonality in sales could provide valuable insights for future planning, including inventory management, staffing, and marketing initiatives. Understanding the purchasing habits of our customers and the purchasing habits in the market at large will influence how we can be
+- **Evaluate Seasonality:**: Further research on the factors contributing to the seasonality in sales could provide valuable insights for future planning, including inventory management and marketing initiatives. Understanding the purchasing habits of our customers and the purchasing habits in the market at large will influence how we can meet customer needs and be competative in the market.
