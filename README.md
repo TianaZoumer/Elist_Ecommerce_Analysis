@@ -38,13 +38,13 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 ### **Regionality**
 
--**North America (NA) is the largest (52%) in terms of total sales and order count across all years**, and it shows a significant growth rate in 2020. However, **the region has seen declining sales, AOV, and order count in 2021 and 2022**, which indicates a need for targeted strategies to maintain its market share.
+- **North America (NA) is the largest (52%) in terms of total sales and order count across all years**, and it shows a significant growth rate in 2020. However, **the region has seen declining sales, AOV, and order count in 2021 and 2022**, which indicates a need for targeted strategies to maintain its market share.
 
--The Europe, Middle East, and Africa (EMEA) region is the **second largest (29%)** and shows a significant boost in 2020, but like NA, it sees a decline in the following years. However, **the decrease is less severe than in NA**, which might indicate more consistent demand in EMEA.
+- The Europe, Middle East, and Africa (EMEA) region is the **second largest (29%)** and shows a significant boost in 2020, but like NA, it sees a decline in the following years. However, **the decrease is less severe than in NA**, which might indicate more consistent demand in EMEA.
 
--The Asia Pacific (APAC) region, the **third largest (13%)**, has a higher AOV compared to other regions for all years except 2019, indicating that **customers in this region tend to purchase more expensive items**. 
+- The Asia Pacific (APAC) region, the **third largest (13%)**, has a higher AOV compared to other regions for all years except 2019, indicating that **customers in this region tend to purchase more expensive items**. 
 
--The Latin America (LATAM) region, the **smallest at (6%)**, while having the smallest total sales and order count, shows strong growth rates in 2020. However, **the region has a significant decrease in AOV, sales, and order count in 2022, more so than the other regions**.
+- The Latin America (LATAM) region, the **smallest at (6%)**, while having the smallest total sales and order count, shows strong growth rates in 2020. However, **the region has a significant decrease in AOV, sales, and order count in 2022, more so than the other regions**.
 
 ![Image](https://user-images.githubusercontent.com/115896875/249189460-60f1c80d-86e8-4fa2-bd11-f210b2251c3e.png)
 
@@ -58,11 +58,11 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 ### **Loyalty Program:**
 
--The non-loyalty members have significantly led sales in 2019 and 2020, but **the gap between the two groups has been decreasing over time, from $3,037,163 in 2019 to a mere $478,742 in 2022 with loyalty members accounting for the largest impact**. Loyalty members account for higher total sales in 2021 and 2022.
+- The non-loyalty members have significantly led sales in 2019 and 2020, but **the gap between the two groups has been decreasing over time, from $3,037,163 in 2019 to a mere $478,742 in 2022 with loyalty members accounting for the largest impact**. Loyalty members account for higher total sales in 2021 and 2022.
 
--The AOV for non-loyalty members has been decreasing since 2020, while it has been increasing for loyalty members whose AOV took the lead in 2021. In 2022 they **spent $31 more on average than non-loyalty members** even including their discounts.
+- The AOV for non-loyalty members has been decreasing since 2020, while it has been increasing for loyalty members whose AOV took the lead in 2021. In 2022 they **spent $31 more on average than non-loyalty members** even including their discounts.
 
--The count of sales for non-loyalty members was significantly higher than that for loyalty members in 2019 and 2020. However, this gap has been closing over the years, with **the count of sales for loyalty members surpassing that for non-loyalty members in 2021 and 2022**.
+- The count of sales for non-loyalty members was significantly higher than that for loyalty members in 2019 and 2020. However, this gap has been closing over the years, with **the count of sales for loyalty members surpassing that for non-loyalty members in 2021 and 2022**.
 
 ![Image](https://user-images.githubusercontent.com/115896875/248973237-558e96d0-a6a0-45a8-a1ea-8ed58c4f8c2b.png)
 
@@ -72,7 +72,7 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - The AOV for the website has been increasing over the years from **$237 in 2019 to $294 in 2022**. On the other hand, the AOV for the mobile app has been decreasing significantly over the years, from **$111 in 2019 to just $36 in 2022**.
 
--Although the website dominates in terms of total sales and AOV, **the proportion of sales coming from the mobile app has been increasing over the years, from only 6% in 2019 to 25% in 2021 and 25% in 2022.** 
+- Although the website dominates in terms of total sales and AOV, **the proportion of sales coming from the mobile app has been increasing over the years, from only 6% in 2019 to 24% in 2021 and 25% in 2022.** 
 
 ![Image](https://user-images.githubusercontent.com/115896875/249202526-9588ef91-ef52-41a4-819c-8d48f50358ee.png)
 
@@ -88,12 +88,12 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 ### **FURTHER RESEARCH:**
 
-- **Investigate Low AOV on Mobile App:**: Despite an increasing proportion of sales, the mobile app has a significantly lower AOV compared to the website. Research should be conducted to understand why customers prefer certain platforms for purchase and how this influences their buying behavior, which can guide improvements in the user experience across platforms.
+**Investigate Low AOV on Mobile App:**: Despite an increasing proportion of sales, the mobile app has a significantly lower AOV compared to the website. Research should be conducted to understand why customers prefer certain platforms for purchase and how this influences their buying behavior, which can guide improvements in the user experience across platforms.
 
-- **Product-Specific Research:** The bottom three products vary in sales but consistently include the Apple iPhone and Bose Soundsport Headphones. It would be beneficial to understand why these products underperform and whether it would be beneficial to discontinue this offering and off-load in an off-season sale.
+**Product-Specific Research:** The bottom three products vary in sales but consistently include the Apple iPhone and Bose Soundsport Headphones. It would be beneficial to understand why these products underperform and whether it would be beneficial to discontinue this offering and off-load in an off-season sale.
 
-- **Loyalty Program:** While the loyalty program shows growth, research should be conducted to identify ways to increase the loyalty-members, who are leading our customer base and also ways to improve loyalty-member purchasing habits in down-turn months. Research the impact of offering additional loyalty program options and/or perks to target specific platforms, regions and products with exclusive discounts.
+**Loyalty Program:** While the loyalty program shows growth, research should be conducted to identify ways to increase the loyalty-members, who are leading our customer base and also ways to improve loyalty-member purchasing habits in down-turn months. Research the impact of offering additional loyalty program options and/or perks to target specific platforms, regions and products with exclusive discounts.
 
-- **Regional Sales:** With sales growth decreasing across all regions and most severely in the APAC region, it's important to investigate the reasons behind these trends and identify possible solutions. Broader understanding of regional purchasing trends in the market are needed.
+**Regional Sales:** With sales growth decreasing across all regions and most severely in the APAC region, it's important to investigate the reasons behind these trends and identify possible solutions. Broader understanding of regional purchasing trends in the market are needed.
 
-- **Evaluate Seasonality:**: Further research on the factors contributing to the seasonality in sales could provide valuable insights for future planning, including inventory management and marketing initiatives. Understanding the purchasing habits of our customers and the purchasing habits in the market at large will influence how we can meet customer needs and be competative in the market.
+**Evaluate Seasonality:**: Further research on the factors contributing to the seasonality in sales could provide valuable insights for future planning, including inventory management and marketing initiatives. Understanding the purchasing habits of our customers and the purchasing habits in the market at large will influence how we can meet customer needs and be competative in the market.
