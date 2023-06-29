@@ -24,7 +24,7 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - **2022 showed a 46% decline in sales, a 10% drop in AOV, and a 40% drop in order count** compared to 2021. This shows we have failed to pivot with the current market trends.
 
-![Image](https://user-images.githubusercontent.com/115896875/248972821-cabd344d-9203-415b-acaf-fe3853ac3df3.png)
+![yearly_trends](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/c55b11d1-ce1a-4416-9fbf-1dbb7f380a30)
 ### **Seasonality:**
 
 - The highest total sales occur at the end of the year, specifically in November and December. **In 2021 and 2022, sales in November and December were averaging 20% higher** on total sales and order count. The beginning of the year shows a trend of decreased sales, with significant drops in total sales observed in **January and February, representing an average of 30% decreased order count and sales total.**
@@ -33,9 +33,8 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - **October is the lowest performing month averaging a 30% drop** in total sales and order count across all years.
 
-![Image](https://user-images.githubusercontent.com/115896875/249210079-906564fe-1d4e-4385-bd87-ed255c9423e8.png)
-![Image](https://user-images.githubusercontent.com/115896875/248973051-15a9592f-9bcc-4f0c-92e0-c5e36445af9d.png)
-
+![seasonality1](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/6793c8fa-c11c-4251-8146-00e67a6d426f)
+![seasonality2](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/2666e0a0-eb39-48cd-8431-18dbf82e3c22)
 ### **Regionality**
 
 - **North America (NA) is the largest (52%) in terms of total sales and order count across all years**, and it shows a significant growth rate in 2020. However, **the region has seen declining sales, AOV, and order count in 2021 and 2022**, which indicates a need for targeted strategies to maintain its market share.
@@ -46,16 +45,14 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - The Latin America (LATAM) region, the **smallest at (6%)**, while having the smallest total sales and order count, shows strong growth rates in 2020. However, **the region has a significant decrease in AOV, sales, and order count in 2022, more so than the other regions**.
 
-![Image](https://user-images.githubusercontent.com/115896875/249189460-60f1c80d-86e8-4fa2-bd11-f210b2251c3e.png)
-
+![Regionality](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/81b235dd-b651-445a-b06d-effbe11fefbc)
 ### **Products:**
 
 - Top: The 27in 4K gaming monitor, Apple Airpods Headphones, and Macbook Air Laptop consistently **contribute to over 80% of total sales from 2019 to 2022**, indicating their significant impact on the business's total performance.
 
 - Bottom: The Apple iPhone, despite its high AOV, contributes minimally to the total sales (**1% in each year**), reflecting its limited impact on overall sales performance. The Bose Soundsport Headphones and Samsung Charging Cable Pack also contribute minimally to total sales. Despite the high sales volume of the Samsung Charging Cable Pack due to its lower price point, it still **only accounts for 1-2% of the total sales**.
 
-![Image](https://user-images.githubusercontent.com/115896875/249211771-82477557-efa5-4c74-908b-abdb5b493c09.png)
-
+![products](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/89f178b2-6756-4621-a556-e92a09d91353)
 ### **Loyalty Program:**
 
 - The non-loyalty members have significantly led sales in 2019 and 2020, but **the gap between the two groups has been decreasing over time, from $3,037,163 in 2019 to a mere $478,742 in 2022 with loyalty members accounting for the largest impact**. Loyalty members account for higher total sales in 2021 and 2022.
@@ -64,8 +61,7 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - The count of sales for non-loyalty members was significantly higher than that for loyalty members in 2019 and 2020. However, this gap has been closing over the years, with **the count of sales for loyalty members surpassing that for non-loyalty members in 2021 and 2022**.
 
-![Image](https://user-images.githubusercontent.com/115896875/248973237-558e96d0-a6a0-45a8-a1ea-8ed58c4f8c2b.png)
-
+![loyalty_program](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/a311bec4-962f-41e6-84f2-5eea802ed6b0)
 ### **Purchase Platform**
 
 - The website accounts for **97% of total sales each year.** This purchasing trend is consistent across all regions, indicating its success in marketing higher value products.
@@ -74,8 +70,7 @@ Post cleaning, working Dataset: 92,764 unique order values.
 
 - Although the website dominates in terms of total sales and AOV, **the proportion of sales coming from the mobile app has been increasing over the years, from only 6% in 2019 to 24% in 2021 and 25% in 2022.** 
 
-![Image](https://user-images.githubusercontent.com/115896875/249202526-9588ef91-ef52-41a4-819c-8d48f50358ee.png)
-
+![purchase_platform](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/c0661052-f73c-4b88-8ea9-24e3e9752168)
 ### **MARKETING STRATEGIES:**
 
 **Seasonality-Based Campaigns**: Capitalize on high-sales periods like Q4 and specifically the holiday season in November and December for targeted marketing campaigns. Given these periods drive the highest sales, marketing efforts should be ramped up to maximize revenue. For off-peak seasons, offer special deals, discounts, or bundled packages, which, optionally, could coincide with off-loading inventory that doesn’t perform as well.
