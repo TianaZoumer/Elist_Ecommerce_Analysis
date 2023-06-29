@@ -12,7 +12,7 @@ The raw data, 108,128 order values, was subjected to rigorous cleaning and optim
 - Eliminated entries with blank fields (167 in number, 0.001% of the total). 
 - Ensured consistency in product names
 
-Post cleaning, working Dataset: 92,764 unique order values.
+Post cleaning, working Dataset: 92,763 unique order values.
 
 ### **KEY INSIGHTS**
 
