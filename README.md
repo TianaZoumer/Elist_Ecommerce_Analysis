@@ -68,9 +68,9 @@ Post cleaning, working Dataset: 92,763 unique order values.
 
 - The AOV for the website has been increasing over the years from **$237 in 2019 to $294 in 2022**. On the other hand, the AOV for the mobile app has been decreasing significantly over the years, from **$111 in 2019 to just $36 in 2022**.
 
-- Although the website dominates in terms of total sales and AOV, **the proportion of sales coming from the mobile app has been increasing over the years, from only 6% in 2019 to 24% in 2021.** Though it drops again in 2022, it is worth understanding the fluctuation of 2021 to improve future imrovements. 
+- Although the website dominates in terms of total sales and AOV, **the proportion of sales coming from the mobile app has been increasing over the years, from only 6% in 2019 to 24% in 2021 25% in 2022.**
 
-![purchase_platform](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/c0661052-f73c-4b88-8ea9-24e3e9752168)
+![purchase_platform](https://github.com/TianaZoumer/Elist_Ecommerce_Analysis/assets/115896875/002b5fe9-0405-4cef-a2a7-f9c80535cf81)
 ### **MARKETING STRATEGIES:**
 
 **Seasonality-Based Campaigns**: Capitalize on high-sales periods like Q4 and specifically the holiday season in November and December for targeted marketing campaigns. Given these periods drive the highest sales, marketing efforts should be ramped up to maximize revenue. For off-peak seasons, offer special deals, discounts, or bundled packages, which, optionally, could coincide with off-loading inventory that doesn’t perform as well.
